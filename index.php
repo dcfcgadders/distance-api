@@ -2,6 +2,7 @@
   <head>
     <title>Distance Calculator</title>
     <!-- Import Google Maps API inc KEY -->
+    <script src="http://code.jquery.com/jquery-3.2.1.js" integrity="sha256-DZAnKJ/6XZ9si04Hgrsxu/8s717jcIzLy3oi35EouyE=" crossorigin="anonymous"></script>
     <script type="text/javascript" src="https://maps.googleapis.com/maps/api/js?key=AIzaSyDUXWSeuFXSLQPeV6SoIrCiPyc-KQh5v1k"></script>
     <script type="text/javascript" src="/js/script.js"></script>
     <link href="/css/style.css" rel="stylesheet" type="text/css"/>
