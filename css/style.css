@@ -1,0 +1,69 @@
+body { background-color:#2b2c2d; }
+
+#get_prices, #reset {
+  padding: 15px 10px;
+  border: 1px solid #00446a;
+  color: #fafafa;
+  background-color: #00446a;
+  border-radius: 5px;
+  text-transform: uppercase;
+  min-width:160px;
+}
+
+#get_prices:hover, #reset:hover {
+  padding: 15px 10px;
+  border: 1px solid #00446a;
+  color: #00446a;
+  background-color: #fafafa;
+  text-transform: uppercase;
+}
+
+input[type=text] {
+  max-width: 150px;
+  width: 100%;
+  padding: 10px 6px;
+  height: auto;
+  border: 1px solid #2b2c2d;
+  border-radius: 5px;
+  text-transform: uppercase;
+}
+
+select {
+  width: 160px;
+  padding: 10px 6px;
+  height: 45px;
+  border: 1px solid #2b2c2d;
+  border-radius: 5px;
+  text-transform: uppercase;
+}
+
+::placeholder {
+  color: #2b2c2d;
+}
+
+.postcode_section {
+  margin: 100px auto 0px;
+  width: 320px;
+  border: 1px solid #b3b3b3;
+  padding: 30px;
+  text-align: center;
+  background-color:#ffffff;
+  border-radius:10px;
+}
+
+.results_section {
+  margin: 100px auto 0px;
+  width: 320px;
+  border: 1px solid #b3b3b3;
+  padding: 30px;
+  background-color:#ffffff;
+  border-radius:10px;
+}
+
+#map {
+  width: 100%; 
+  height: 300px;
+  border:1px solid #00446a;
+}
+
+#to {margin-bottom:10px;}
