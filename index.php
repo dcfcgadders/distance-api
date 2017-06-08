@@ -1,6 +1,10 @@
 <html>
   <head>
     <title>Distance Calculator</title>
+    <!-- Import Google Maps API inc KEY -->
+    <script type="text/javascript" src="https://maps.googleapis.com/maps/api/js?key=AIzaSyDUXWSeuFXSLQPeV6SoIrCiPyc-KQh5v1k"></script>
+    <script type="text/javascript" src="/js/script.js"></script>
+    <link href="/css/style.css" rel="stylesheet" type="text/css"/>
   </head>
   <body>
     <div class="postcode_section">
